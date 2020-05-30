@@ -48,5 +48,5 @@ Thanks goes to these wonderful people
   <tr>
     <td align="center"><a href="https://github.com/moit-bytes"><img src="https://avatars1.githubusercontent.com/u/53662024" width="100px;" alt=""/><br /><sub><b>Mohit Kumar</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/niteshbharti005101"><img src="https://avatars2.githubusercontent.com/u/52861833" width="100px;" alt=""/><br /><sub><b>Nitesh Bharti</b></sub></a><br /></td>
-    <td align="center"><a href="https://github.com/sahithipriya7419"><img src="https://avatars3.githubusercontent.com/u/59274924?s=460&u=7a2783b0ee545d080f5e5811908d04eb72ccb309&v=4" width="100px;" alt=""/><br /><sub><b>Nitesh Bharti</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/sahithipriya7419"><img src="https://avatars3.githubusercontent.com/u/59274924?s=460&u=7a2783b0ee545d080f5e5811908d04eb72ccb309&v=4" width="100px;" alt=""/><br /><sub><b>Sahithi Priya</b></sub></a><br /></td>
 </table>
