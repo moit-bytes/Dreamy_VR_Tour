@@ -1,9 +1,9 @@
 # Dreamy_VR_Tour
-## VR experience in eb!! :smiley:
+## VR experience in Web!! :smiley:
 ## Inspiration
 We know how the outbreak of COVID-19 has created a global health crisis that has had a deep impact on the way we perceive our world and our everyday lives. Everyone is working from home and are adviced not to go out and stay inside.
 ## What it does
-Once the site is opened, you can select from the options provided over there to visit to the place of your own choice and our website would provide you the real time virtual experience of yourself being at that place and enjoying the view, it's beauty. If you wish to swich to some other place after visiting some partiicular place and having fun out there, you will be having the option to switch to other destinations as well. By this way way we would like to provide the user of our website the experince of a holiday trip with the comfort of their home and also not abiding the rules of lockdown.
+Once the site is opened, you can select from the options provided over there to visit to the place of your own choice and our website would provide you the real time virtual experience of yourself being at that place and enjoying the view, it's beauty. If you wish to swich to some other place after visiting some particular place and having fun out there, you will be having the option to switch to other destinations as well. By this way way we would like to provide the user of our website the experince of a holiday trip with the comfort of their home and also not abiding the rules of lockdown.
 
 <img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/images/modal-bg.jpg" width="600">
 <img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/images/slide-1.jpg" width="600">
@@ -23,6 +23,7 @@ Once the site is opened, you can select from the options provided over there to 
 <img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/Screenshots/4.jpg" width="700">
 <img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/Screenshots/web_front.jpg" width="700">
 <img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/Screenshots/3.jpg" width="700">
+<img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/Screenshots/5.jpg" width="700">
 
 
 ## Links:
