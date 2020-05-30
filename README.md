@@ -23,6 +23,7 @@ Once the site is opened, you can select from the options provided over there to 
 <img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/Screenshots/4.jpg" width="700">
 <img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/Screenshots/web_front.jpg" width="700">
 <img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/Screenshots/3.jpg" width="700">
+<img src="https://github.com/moit-bytes/Dreamy_VR_Tour/blob/master/Screenshots/5.jpg" width="700">
 
 
 ## Links:
